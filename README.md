@@ -1,5 +1,5 @@
 # temp-repo
-# How to run:
+## How to run:
 ```
 python d.py 
 ```
